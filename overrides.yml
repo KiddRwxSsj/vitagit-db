@@ -1,0 +1,3 @@
+# Manual classification overrides for build_db.py.
+# Key = "owner/repo" (must match the "repo" field in the NeoVitaDB JSON), lowercase.
+# Value = one of: game, port, emulator, utility
