@@ -25,6 +25,6 @@ Note: `index.yml` is auto-generated from the [NeoVitaDB-Catalog](https://github.
 
 ## Credits
 
-The initial database was based on the [VitaDB](https://vitadb.rinnegatamante.it/) catalog through [NeoVitaDB](https://github.com/robin994/NeoVitaDB-Catalog), with restructuring and additional work for VitaGit.
+The initial database was based on the [VitaDB](https://vitadb.rinnegatamante.it/) catalog through [NeoVitaDB](https://github.com/robin994/NeoVitaDB-Catalog), with additional references from [VitaDBtoo](https://github.com/DrDecki/VitaDBtoo-db/tree/main), followed by restructuring and additional work for VitaGit.
 
 Homebrew icons, metadata, and other assets remain the property of their respective authors.
