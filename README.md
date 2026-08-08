@@ -12,6 +12,10 @@ This repository contains the database used by **VitaGit** to index and organize 
 
 VitaGit is designed around GitHub repositories, allowing applications to be distributed directly from their developers' releases without relying on a centralized server.
 
+## Website 
+
+The database is used by the **VitaGit** web-based homebrew browser: [https://kiddrwxssj.github.io/vitagit.github.io/](https://kiddrwxssj.github.io/vitagit.github.io/)
+
 ## Structure
 
 The database contains the information VitaGit needs to discover and display available homebrew applications, including their metadata and download sources.
