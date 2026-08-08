@@ -2243,10 +2243,10 @@
   version: v.1.5.4
   author: devilutionX Team
   type: port
-  description: Port of Diablo for PSVITA/PSTV.
+  description: Port of Diablo for PSVita.
   date: '2025-02-08'
   url: https://github.com/diasurgical/DevilutionX/releases/download/1.5.4/devilutionx-vita.vpk
-  long_description: A port of Diablo for PSVita based on the devilutionX project, a reverse engineereed implementation of the original Diablo release for PC.
+  long_description: A port of Diablo for PSVita based on the devilutionX project.
 - titleid: DIGICLOCK
   name: Digital Clock Vita
   version: '1.00'
@@ -2706,10 +2706,10 @@
   version: v.5.0
   author: SKGleba & Team Molecule
   type: utility
-  description: Untethered jailbreak and CFW loader for PlayStation Vita/TV units on firmware 3.65
+  description: Installer for 3.65 Henkaku Enso CFW.
   date: '2023-07-08'
   url: https://github.com/SKGleba/enso_ex/releases/download/v5.0/enso_ex.vpk
-  long_description: "Untethered jailbreak and CFW loader for PlayStation Vita/TV units on firmware 3.65\nFeatures:\n - Custom kernel loader\n - Support for unsigned base kernel modules\n - Code execution on the bootloader level\n - SD2VITA and EMMC -based recovery\n - Various tweaks such as custom bootlogo or DevKit VitaTV mode support"
+  long_description: Fork of original Henkaku enso installer to make it compatible with 3.65 firmware.
 - titleid: EPTS80085
   name: Epicki Twój Stary
   version: v.1.0.0
@@ -3200,10 +3200,10 @@
   version: v.1.0
   author: aionmagan
   type: game
-  description: Labyrinth game for PSVITA.
+  description: Clone of Top Neon Rush for PSVITA.
   date: '2023-11-04'
   url: https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1165-flick.vpk
-  long_description: Evade the Ghost and 'Flick' the switches to Escape.
+  long_description: Avoid obstacles and shrink when you need to (some obstacles can only be avoided by shrinking).
 - titleid: FLPR12345
   name: Flipper Volcano Vita
   version: v.1.1
@@ -5679,9 +5679,10 @@
   version: v.0.1
   author: SoyKhaler
   type: game
-  description: Clone of Garrys Mod's Nextbot for PSVITA.
+  description: Local multiplayer Pong game.
   date: '2023-10-03'
   url: https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1155-Nextbot4Vita.vpk
+  long_description: Local multiplayer pong for 2 persons in the same console.
 - titleid: NFSHP0000
   name: NFSHP Vita
   icon: 2fb5da42c44671cdb320b76ad5062dd669c6281034a3e0ca7be7ea6cc3f5777a.png
@@ -5771,10 +5772,12 @@
   version: v.1
   author: VitaCreatorDeveloper
   type: game
-  description: Platform game for PSVITA.
+  description: Port of Freeway Mutant for PSVITA.
   date: '2023-01-18'
   url: https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1031-not_trust.vpk
-  long_description: Do not trust? Why is that the title of the Video Game? Could it be that there is some kind of Glitch that should make me distrust this Video Game? I don't know, but I won't know what you mean by this title, if I don't try it.
+  long_description: 'Freeway Mutant is an endless monster-blasting runner.
+
+    The game is all about weaving through a shattered road, dodging other mutants, avoiding explosive curling disks, and collecting parts to make your gun more powerful.'
 - titleid: NOTE00001
   name: Notepad Vita
   version: v.1.0
@@ -6031,10 +6034,10 @@
   version: v.1.0
   author: usineur
   type: port
-  description: Titus port for PSVITA.
+  description: Moktar port for PSVITA.
   date: '2017-10-25'
   url: https://github.com/usineur/opentitus/releases/download/1.0/Titus.vpk
-  long_description: A port of the game engine behind the DOS versions of Titus the Fox.
+  long_description: OpenMoktar is a port of the game engine behind the DOS versions of Moktar.
 - titleid: ANGU00001
   name: OpenTTD
   icon: f04c50b1cfbd32873e77a9426958b8d07188dd239afec559d08c2e1e01155b38.png
@@ -6216,10 +6219,10 @@
   version: v.1.2
   author: SoyKhaler
   type: port
-  description: Port of Parkour Labs for PSVITA.
+  description: Port of Maximilien Adventure for PSVITA/PSTV.
   date: '2026-03-09'
   url: https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1099-Parkour_Labs.vpk
-  long_description: 'A port of the Steam game Parkour Labs, a hard parkour videogame similar to CSGO: Surf.'
+  long_description: Port of Maximilien Adventure for PSVITA/PSTV, which is a super Mario like game created with Godot.
 - titleid: PARTIAVGL
   name: 'Partia: The Granian Trilogy'
   icon: 452096a159b5d6250870c16cc1995f19d32bfc28b152d3052491f9752239d304.png
@@ -6537,10 +6540,10 @@
   version: v.1.10
   author: NamelessGhoul0
   type: game
-  description: Pong clone for PSVITA.
+  description: Clone of the classic game Pong for the PS Vita.
   date: '2017-09-06'
   url: https://github.com/NamelessGhoul0/VitaPong/releases/download/v1.10/Pong.vpk
-  long_description: This is a classic pong clone I created as a throwback to the origin of video games. This is also my first homebrew game and I designed it to resemble the original Pong by Ralph Baer.
+  long_description: A simple clone of the classic game Pong for PSVITA/PSTV.
 - titleid: PONY22412
   name: Pony Island
   icon: ab1eeefd5399ed1a25db0882a9161c9ae2662b8b87af1cf2871f1a43a0cce3a2.png
@@ -7105,7 +7108,7 @@
   version: v.1.3
   author: devnoname120
   type: utility
-  description: Modified version of Registry Editor.
+  description: Edit registry settings.
   date: '2019-09-01'
   url: https://github.com/devnoname120/RegistryEditorMOD/releases/download/1.3/RegistryEditor.vpk
   long_description: Simple app that allows you to read and edit all registry settings in an organized manner. UI heavily based on TheFloW's VitaShell.
@@ -7676,7 +7679,9 @@
   description: Maniac Mansion Virtual Machine emulator.
   date: '2026-06-20'
   url: https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/585-scummvm_release.vpk
-  long_description: 'This download is the latest stable release. ScummVM is a program which allows you to run certain classic graphical point-and-click adventure games, provided you already have their data files.
+  long_description: 'This download is updated every night, at midnight, PDT, to the latest buildbot release.
+
+    ScummVM is a program which allows you to run certain classic graphical point-and-click adventure games, provided you already have their data files.
 
     ScummVM supports many adventure games, including LucasArts SCUMM games (such as Monkey Island 1-3, Day of the Tentacle, Sam & Max, ...), many of Sierra''s AGI and SCI games (such as King''s Quest 1-6, Space Quest 1-5, ...), Discworld 1 and 2, Simon the Sorcerer 1 and 2, Beneath A Steel Sky, Lure of the Temptress, Broken Sword 1 and 2, Flight of the Amazon Queen, Gobliiins 1-3, The Legend of Kyrandia 1-3, many of Humongous Entertainment''s children''s SCUMM games (including Freddi Fish and Putt Putt games) and many more.'
 - titleid: SPOP00001
@@ -8374,7 +8379,7 @@
   description: Hatsune Miku random image viewer.
   date: '2026-01-19'
   url: https://github.com/FuzionCD/MikuVU/releases/download/v1.6/MikuVU_1.6.vpk
-  long_description: Application that shows random images of Hatsune Miku from Gelbooru. Allows saving images to album, features a slideshow mode, and supports offline use. Contains optional NSFW content.
+  long_description: Application that shows random images taken from safebooru of Hatsune Miku and allows to save them on your Vita.
 - titleid: SPIDERCAR
   name: SpiderVita
   version: v.1.2
@@ -8493,10 +8498,10 @@
   version: v.1.0
   author: WIDEGCG
   type: game
-  description: 3D puzzle game for PSVita.
+  description: Frying game for PSVITA.
   date: '2025-10-07'
   url: https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1334-StellarShift.vpk
-  long_description: A 3D puzzle game for PSVita.
+  long_description: The game is inspired by a mini game from "Super Mario Party" it has two modes, endless where you have to cook patties before the time limit and 4 sides where you have to cook all four sides of a steak and make a high score.
 - titleid: STEM00001
   name: StemLoader
   version: v.0.2
@@ -8561,12 +8566,10 @@
   version: v.2
   author: SpanishFreddy
   type: port
-  description: Port of Sunshine-Cat-Platformer for PSVITA.
+  description: Flappy Bird clone for PSVITA.
   date: '2023-01-05'
   url: https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1026-sunshine.vpk
-  long_description: 'Port of Sunshine-Cat-Platformer for PSVITA.
-
-    Sunshine-Cat-Platformer is a demo platformer inspired to the secret levels of Super Mario Sunshine made for an university task.'
+  long_description: A Flappy Bird clone for PSVITA/PSTV made with Unity.
 - titleid: LAPY30015
   name: Super Console Wars
   icon: 93acef1679fc8c63ed29a6f08f8c7f52eaa25b128e315dd1515115945feb330a.png
@@ -8797,12 +8800,10 @@
   version: MOD v.2.0
   author: kylon
   type: utility
-  description: Updated version of SwitchKaKu.
+  description: Extended Henkaku offline installer.
   date: '2017-03-19'
   url: https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/207-SwitchKaKu.vpk
-  long_description: 'This is an extended version of the Henkaku Offline Installer by xyz.
-
-    Updated version to work with latest HENkaku version.'
+  long_description: This is an extended version of the Henkaku Offline Installer by xyz.
 - titleid: SVEW00001
   name: SwitchView UI
   version: v.0.1.2
@@ -9798,10 +9799,12 @@
   version: v.1.01
   author: SonicMastr
   type: utility
-  description: Opensource video player for PSVITA.
+  description: Opensource video player for PSTV.
   date: '2021-04-09'
   url: https://github.com/SonicMastr/Vita-Media-Player/releases/download/v1.01/VitaMediaPlayer.vpk
-  long_description: 'An Open Source PSVita MP4 player with 1080p playback and subtitle support.
+  long_description: 'An Open Source PSVita/TV MP4 player with 1080p playback and subtitle support.
+
+    1080i output supported on the PSTV natively and on the Vita with Sharpscale.
 
     SRT subtitle support (Has to be the same name as the video file)'
 - titleid: MHDH00001
@@ -10586,12 +10589,10 @@
   version: v.1.00
   author: Avellea & Pookette & NamelessGhoul0
   type: utility
-  description: A simple homebrew for testing the input data on the PSVita.
+  description: Test buttons input of your PSVITA.
   date: '2023-05-26'
   url: https://github.com/Avellea/VitaTester/releases/download/1.0/VitaTester.vpk
-  long_description: 'A simple homebrew for testing the input data on the PSVita.
-
-    This mod currently implements also gyroscope and accelerometer testing.'
+  long_description: A simple homebrew for testing the input data on the PSVita.
 - titleid: VITATLBOX
   name: VitaToolbox
   version: v.0.2
