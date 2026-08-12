@@ -10256,3 +10256,48 @@
   description: Package installer for PSVITA.
   date: '2026-08-05'
   url: https://github.com/LiEnby/real-package-installer/releases/download/1.4/real_package_installer.vpk
+- titleid: TRFL00001
+  name: Trifle Psychotic
+  icon: 06c2e06af2aa49a9ff89a20bf5512d8ca3702b273af32a6156a62bfafa008ddb.png
+  version: v.1.0.0
+  author: KiddRwxSsj
+  type: port
+  description: Port of Trifle Psychotic for PSVITA.
+  date: '2026-08-09'
+  url: https://github.com/KiddRwxSsj/trifle-psychotic-vita/releases/download/1.0.0/TriflePsychotic.vpk
+- titleid: WLOGICCD2
+  name: Dinosaur 2D
+  icon: 0139b3eccd766557f4ec33f068150158c409000051135ed29adb53ef4af197ad.png
+  version: v.1.0
+  author: withLogic
+  type: game
+  description: Chrome offline dinosaur game ported to PSVITA. Needs assets.zip in ux0:data.
+  date: '2026-08-09'
+  url: https://github.com/withLogic/chrome-dinosaur-2d/releases/download/v1.0/chrome-dinosaur-2d.vpk
+- titleid: GDOT00003
+  name: 2PlayersPong
+  icon: cb1dab7fab9f37e0c8d93a3e591875b6ef104e30c09b6447d539bdbfbf212cae.png
+  version: v.0.2
+  author: SoyKhaler
+  type: game
+  description: Local multiplayer pong for 2 players on the same console.
+  date: '2023-02-28'
+  url: https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1049-2PlayersPong.vpk
+- titleid: WLFN0001
+  name: vitaWolfen
+  icon: 6f9a852ed2e15001bf96a8c8f142aeb59ecc51b56bcb233d96a3e9774fec2667.png
+  version: v.1.7
+  author: Rinnegatamante
+  type: port
+  description: Wolfenstein 3D port, based on Wolf4SDL. Supports base game and Spear of Destiny.
+  date: '2020-11-30'
+  url: https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/31-vitaWolfen.zip
+- titleid: VID000162
+  name: VITAident GUI
+  icon: 8f39546ca79f8f0a48f4867089b946bcb13af615f7a72faa08f1ac72737a7145.png
+  version: v.0.7.4
+  author: joel16
+  type: utility
+  description: Shows hardware and firmware info about your PSVITA. Inspired by PSPident.
+  date: '2017-10-17'
+  url: https://github.com/joel16/VITAident/releases/download/0.7.4/VITAident_GUI.vpk
